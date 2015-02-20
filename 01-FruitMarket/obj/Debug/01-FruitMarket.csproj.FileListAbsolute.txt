@@ -1,0 +1,6 @@
+E:\Documents\SoftUni\Exam Preparation\14 April 2014 Morning\01-FruitMarket\01-FruitMarket\bin\Debug\01-FruitMarket.exe.config
+E:\Documents\SoftUni\Exam Preparation\14 April 2014 Morning\01-FruitMarket\01-FruitMarket\obj\Debug\01-FruitMarket.csprojResolveAssemblyReference.cache
+E:\Documents\SoftUni\Exam Preparation\14 April 2014 Morning\01-FruitMarket\01-FruitMarket\bin\Debug\01-FruitMarket.exe
+E:\Documents\SoftUni\Exam Preparation\14 April 2014 Morning\01-FruitMarket\01-FruitMarket\bin\Debug\01-FruitMarket.pdb
+E:\Documents\SoftUni\Exam Preparation\14 April 2014 Morning\01-FruitMarket\01-FruitMarket\obj\Debug\01-FruitMarket.exe
+E:\Documents\SoftUni\Exam Preparation\14 April 2014 Morning\01-FruitMarket\01-FruitMarket\obj\Debug\01-FruitMarket.pdb
